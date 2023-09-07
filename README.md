@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-A sophomore at Monash University Malaysia, perusing B.E. Software Engineering (Honours) with a flair for both technical and creative pursuits.
+A sophomore at Monash University Malaysia, perusing B.E. Software Engineering (Honours) 
+with a flair for both technical and creative pursuits.
 
 * 🌍  I'm based in India
 * 🧠  I'm learning Python, Svelte
